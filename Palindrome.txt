@@ -11,5 +11,5 @@ STEP 2
 COMPARE IF palindrome can be read from left to right or from right to left
 word= [k,a, y, a, k]
        ===>    <===
-END
+STOP
     
