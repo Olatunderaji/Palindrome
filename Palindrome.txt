@@ -1,0 +1,15 @@
+Name: Is palindrome. 
+Description: 
+Test if a word is a palindrome.
+A word is a palindrome if only if it can be read from left to right or from right to left:
+gag; kayak; php; radar;....*/
+
+SOLUTION
+STEP 1
+word= [k,a, y, a, k]
+STEP 2
+COMPARE IF palindrome can be read from left to right or from right to left
+word= [k,a, y, a, k]
+       ===>    <===
+END
+    
